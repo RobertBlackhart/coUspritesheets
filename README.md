@@ -1,0 +1,4 @@
+coUspritesheets
+===============
+
+Spritesheets for CoU
